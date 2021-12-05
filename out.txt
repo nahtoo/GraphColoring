@@ -1,0 +1,163 @@
+Plain
+200,10000
+[(26, 91), (61, 7), (164, 99), (190, 73)]
+Plain:
+Time (in milliseconds): 1.694
+Steps: 201
+200,10000
+[(17, 85), (84, 18), (78, 187), (3, 85)]
+Plain:
+Time (in milliseconds): 1.689
+Steps: 201
+200,10000
+[(196, 35), (7, 59), (8, 83), (61, 139)]
+Plain:
+Time (in milliseconds): 1.693
+Steps: 201
+200,10000
+[(154, 73), (79, 2), (65, 141), (78, 108)]
+Plain:
+Time (in milliseconds): 1.8940000000000001
+Steps: 201
+200,10000
+[(101, 79), (197, 32), (159, 138), (186, 61)]
+Plain:
+Time (in milliseconds): 1.8190000000000002
+Steps: 201
+200,10000
+[(131, 96), (188, 156), (198, 40), (184, 139)]
+Plain:
+Time (in milliseconds): 1.788
+Steps: 201
+200,10000
+[(16, 20), (85, 26), (112, 160), (198, 91)]
+Plain:
+Time (in milliseconds): 1.735
+Steps: 201
+200,10000
+[(104, 154), (3, 161), (81, 0), (179, 75)]
+Plain:
+Time (in milliseconds): 1.7750000000000001
+Steps: 201
+200,10000
+[(150, 89), (101, 19), (98, 4), (147, 11)]
+Plain:
+Time (in milliseconds): 1.692
+Steps: 201
+200,10000
+[(48, 15), (77, 64), (74, 32), (14, 179)]
+Plain:
+Time (in milliseconds): 1.6980000000000002
+Steps: 201
+\nMin-conflict
+200,10000
+[(26, 91), (61, 7), (164, 99), (190, 73)]
+Min-conflict:
+step
+Time (in milliseconds): 0.309
+Steps: 1
+200,10000
+[(17, 85), (84, 18), (78, 187), (3, 85)]
+Min-conflict:
+step
+Time (in milliseconds): 0.317
+Steps: 1
+200,10000
+[(196, 35), (7, 59), (8, 83), (61, 139)]
+Min-conflict:
+step
+Time (in milliseconds): 0.30200000000000005
+Steps: 1
+200,10000
+[(154, 73), (79, 2), (65, 141), (78, 108)]
+Min-conflict:
+step
+Time (in milliseconds): 0.34900000000000003
+Steps: 1
+200,10000
+[(101, 79), (197, 32), (159, 138), (186, 61)]
+Min-conflict:
+step
+Time (in milliseconds): 0.31
+Steps: 1
+200,10000
+[(131, 96), (188, 156), (198, 40), (184, 139)]
+Min-conflict:
+step
+Time (in milliseconds): 0.299
+Steps: 1
+200,10000
+[(16, 20), (85, 26), (112, 160), (198, 91)]
+Min-conflict:
+step
+Time (in milliseconds): 0.31
+Steps: 1
+200,10000
+[(104, 154), (3, 161), (81, 0), (179, 75)]
+Min-conflict:
+step
+Time (in milliseconds): 0.305
+Steps: 1
+200,10000
+[(150, 89), (101, 19), (98, 4), (147, 11)]
+Min-conflict:
+step
+Time (in milliseconds): 0.306
+Steps: 1
+200,10000
+[(48, 15), (77, 64), (74, 32), (14, 179)]
+Min-conflict:
+step
+Time (in milliseconds): 0.40099999999999997
+Steps: 1
+\nImproved
+200,10000
+[(26, 91), (61, 7), (164, 99), (190, 73)]
+Improved:
+Time (in milliseconds): 5094.919
+Steps: 201
+200,10000
+[(17, 85), (84, 18), (78, 187), (3, 85)]
+Improved:
+Time (in milliseconds): 4951.465
+Steps: 201
+200,10000
+[(196, 35), (7, 59), (8, 83), (61, 139)]
+Improved:
+Time (in milliseconds): 4800.543000000001
+Steps: 201
+200,10000
+[(154, 73), (79, 2), (65, 141), (78, 108)]
+Improved:
+Time (in milliseconds): 4848.302000000001
+Steps: 201
+200,10000
+[(101, 79), (197, 32), (159, 138), (186, 61)]
+Improved:
+Time (in milliseconds): 4840.454000000001
+Steps: 201
+200,10000
+[(131, 96), (188, 156), (198, 40), (184, 139)]
+Improved:
+Time (in milliseconds): 4827.103
+Steps: 201
+200,10000
+[(16, 20), (85, 26), (112, 160), (198, 91)]
+Improved:
+Time (in milliseconds): 4871.817
+Steps: 201
+200,10000
+[(104, 154), (3, 161), (81, 0), (179, 75)]
+Improved:
+Time (in milliseconds): 4814.109
+Steps: 201
+200,10000
+[(150, 89), (101, 19), (98, 4), (147, 11)]
+Improved:
+Time (in milliseconds): 4815.517
+Steps: 201
+200,10000
+[(48, 15), (77, 64), (74, 32), (14, 179)]
+Improved:
+Time (in milliseconds): 4779.996999999999
+Steps: 201
